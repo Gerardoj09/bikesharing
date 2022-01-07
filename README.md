@@ -10,26 +10,27 @@
 ### Checkout Times for Users
 
 ![Deliverable 2 1](https://user-images.githubusercontent.com/88596274/148620061-a806d88f-68de-4cfe-9ace-97a28ac597e8.png)
-
+Overall, the analysis is showing us that most of the users ride between 0 and 20 minutes. About 150k users use the services at least 8 minutes. 
 
 ### Checkout Times by Gender
 
 ![Deliverable 2 2](https://user-images.githubusercontent.com/88596274/148620065-181eff85-9664-43de-b8fa-fe058a90b759.png)
+Among all the users, male ones use the service 3 times more than female users. Also, about 10k users who haven't reveal his/her gender, ride from 5 to 30 minutes which is an interesting result.
 
 ### Trips by Weekday per Hour
 
-![Deliverable 2 3](https://user-images.githubusercontent.com/88596274/148620130-a0663f32-7e01-40bd-b733-87b2c2a8470f.png)
-
+![Deliverable 2 3 1](https://user-images.githubusercontent.com/88596274/148620235-4cba3040-2641-4af2-bfe1-78b250d42f46.png)
+According to the heatmap, in thursday afternoon is the peak usage of the week, this may be due to people who leaves their offices towards their home.
 
 ### Trips by Gender (Weekday per Hour)
 
-![Deliverable 2 4](https://user-images.githubusercontent.com/88596274/148620138-4a517eba-e8af-4c13-b6cf-26eb958f6bad.png)
-
+![Deliverable 2 4 1](https://user-images.githubusercontent.com/88596274/148620237-65697278-9260-4310-970e-03ada0012937.png)
+According to this other heatmap, male users are the ones who employ the service around 8am and around 5pm, which are the beginning and the end of office jobs hours.
 
 ### User Trips by Gender by Weekday
 
 ![Deliverable 2 5](https://user-images.githubusercontent.com/88596274/148620100-8b47ac87-93d1-4522-8b16-efb1ea2c0d10.png)
-
+In this third heat map, the analysis shows that users with subsciption are the one who use more the service, specially male subscribers. This may indicate that the usage by tourists or atypical usres is highly overcome than local users.
 
 ### Story
 ![Deliverable 3-1](https://user-images.githubusercontent.com/88596274/148620104-b37a12da-bd5c-46c4-8189-f846fbdcbcc3.png)
