@@ -34,9 +34,10 @@ In this third heat map, the analysis shows that users with subsciption are the o
 
 ### Story
 ![Deliverable 3-1](https://user-images.githubusercontent.com/88596274/148620104-b37a12da-bd5c-46c4-8189-f846fbdcbcc3.png)
+In this first story, the statement is that "There might be more male users interested in using this service", which according to the graph, it seems obvious.
 
 ![Deliverable 3-2](https://user-images.githubusercontent.com/88596274/148620108-74b29311-c170-41b8-8201-a8f87fd4f2e8.png)
-
+In this seconds story, the statement is telling us that there's a higher demand of the service from male subscribers sppecially in thursdays and fridays.
 
 ## Summary
 
