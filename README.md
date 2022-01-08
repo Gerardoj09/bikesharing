@@ -41,9 +41,12 @@ In this seconds story, the statement is telling us that there's a higher demand 
 
 ## Summary
 
-### 
+![Additional 2](https://user-images.githubusercontent.com/88596274/148622212-d0402585-b271-4e1e-ab3e-71e7d092f5ca.png)
 
-### 
+![Additional1](https://user-images.githubusercontent.com/88596274/148622215-1aaefe8d-3003-4aef-8672-0bf982ca97d2.png)
+
+### According to this further analysis, the horizontal bar graph shows an overall higher male demand od this bake-sharing service while the female demand is almost a third part of the first.
+### This makes sense in the map which shows a greater usage overall the city.
 
 ## Tableau Public link
 [link to my Public Tableau profile](https://public.tableau.com/app/profile/gerardo.jimenez)
