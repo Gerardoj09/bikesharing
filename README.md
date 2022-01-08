@@ -43,5 +43,7 @@ In this seconds story, the statement is telling us that there's a higher demand 
 
 ### 
 
+### 
+
 ## Tableau Public link
-[link to dashboard](https://public.tableau.com/app/profile/gerardo.jimenez)
+[link to my Public Tableau profile](https://public.tableau.com/app/profile/gerardo.jimenez)
