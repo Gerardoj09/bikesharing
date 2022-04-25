@@ -1,4 +1,4 @@
-# Challenge 14 - bikesharing - GJP
+# Challenge 14 - Market Research for Bike Sharing Start Up
 
 ## Overview
 
